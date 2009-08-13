@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   id="svg602"
+   sodipodi:version="0.34"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="295.28pt"
+   height="405.89pt"
+   xml:space="preserve"
+   sodipodi:docbase="/mnt/sda1/elementi_decorativi"
+   sodipodi:docname="/mnt/sda1/elementi_decorativi/green_alien_mask.svg"><defs
+   id="defs604"><linearGradient
+   id="linearGradient623"><stop
+   style="stop-color:#002f00;stop-opacity:1;"
+   offset="0"
+   id="stop624" /><stop
+   style="stop-color:#ffffff;stop-opacity:1;"
+   offset="1"
+   id="stop625" /></linearGradient><linearGradient
+   xlink:href="#linearGradient623"
+   id="linearGradient626"
+   x1="0.61450392"
+   y1="0.55952376"
+   x2="0.59923673"
+   y2="0.55952376"
+   spreadMethod="reflect" /></defs><sodipodi:namedview
+   id="base" /><path
+   style="font-size:12;fill:url(#linearGradient626);fill-rule:evenodd;"
+   d="M 352.4677 199.001 C 352.4677 214.8347 343.2547 222.2469 314.4022 234.3098 C 285.5496 246.3725 237.0574 263.086 182.9797 293.442 C 152.5123 276.5776 105.5297 262.7474 73.30416 248.1549 C 41.07876 233.5624 20.23737 208.0889 20.23737 192.2551 C 20.23737 176.4213 129.1685 225.3283 153.3833 241.0919 C 177.5981 256.8554 126.5899 233.2739 172.861 249.5943 C 179.1334 294.2648 208.4381 236.8694 241.7898 223.6426 C 329.6945 189.1853 352.4677 183.1672 352.4677 199.001 z "
+   id="path628"
+   sodipodi:nodetypes="cscscscsc"
+   transform="translate(0.964759,9.371185)" /><path
+   style="font-size:12;fill:#0f804c;fill-rule:evenodd;stroke:#000000;stroke-width:5.375;"
+   d="M 349.0949 157.2531 C 349.0949 211.2478 261.3825 187.1959 183.8229 268.1454 C 136.6195 207.4333 23.61027 216.6295 23.61027 162.6347 C 23.61027 108.6402 87.71236 -0.000276 185.5093 -0.000276 C 283.3064 -0.000276 349.0949 103.2585 349.0949 157.2531 z "
+   id="path622"
+   sodipodi:nodetypes="ccccc"
+   transform="translate(0.964759,9.371185)" /><path
+   style="font-size:12;fill:#0f804c;fill-rule:evenodd;"
+   d="M 8.529873 357.6899 C 8.529873 407.9905 74.33416 237.6638 101.6532 270.6271 C 128.9723 303.5907 227.598 390.1283 269.2855 390.1283 C 310.973 390.1283 218.6847 516.0832 246.0037 483.1196 C 273.3227 450.1562 310.4574 407.9905 310.4574 357.6899 C 310.4574 307.3893 379.5691 197.7657 352.25 164.8022 C 324.931 131.8386 310.973 340.223 269.2855 340.223 C 227.598 340.223 80.06526 195.9237 52.74616 228.8872 C 25.42707 261.8507 8.529873 307.3893 8.529873 357.6899 z "
+   id="path607"
+   sodipodi:nodetypes="cscscscsc"
+   transform="translate(0.964759,9.371185)" /><path
+   style="font-size:12;fill:#0f804c;fill-rule:evenodd;"
+   d="M 358.6405 357.6898 C 358.6405 407.9904 292.8363 237.6637 265.5173 270.627 C 238.1982 303.5906 139.5725 390.1282 97.88496 390.1282 C 56.19756 390.1282 148.4858 516.0831 121.1668 483.1195 C 93.84786 450.1561 56.71316 407.9904 56.71316 357.6898 C 56.71316 307.3892 -12.39863 197.7656 14.92047 164.8022 C 42.23956 131.8386 56.19756 340.2229 97.88496 340.2229 C 139.5725 340.2229 287.1052 195.9237 314.4243 228.8871 C 341.7433 261.8506 358.6405 307.3892 358.6405 357.6898 z "
+   id="path619"
+   sodipodi:nodetypes="cscscscsc"
+   transform="translate(0.964759,9.371185)" /></svg>
